@@ -1,2 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goofy5752)
-![goofy5752 github stats](https://github-readme-stats.vercel.app/api?username=goofy5752&show_icons=true&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goofy5752&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goofy5752&repo=convoychat" />
+</a>
