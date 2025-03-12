@@ -1,4 +1,4 @@
-# Hi there, I'm Martin 👋
+# Hi there 👋
 
 <div align="center">
   <a href="https://github.com/goofy5752" target="_blank">
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a **web developer** with a passion for building immersive online experiences. I currently build **custom events for Talisman Online**, where I combine creativity and cutting-edge web technologies to enhance gameplay.
+I'm a **web developer** with a passion for building immersive online experiences. I currently build **custom events for Talisman Online**, so if you are interested, you can contact me.
 
 <br/>
 
