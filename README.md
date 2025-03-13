@@ -1,17 +1,5 @@
 # Hi there 👋
 
-<div align="center">
-  <a href="https://github.com/goofy5752" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/goofy5752" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:m.asenov5752@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-
 <br/>
 
 ## About Me
@@ -44,6 +32,28 @@ I'm a **web developer** with a passion for building immersive online experiences
 </div>
 
 </br>
+
+## Contact
+
+Feel free to reach out via any of the platforms below:
+
+<div align="center">
+  <a href="https://github.com/goofy5752" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/goofy5752" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://wa.me/+359897056039" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://t.me/lowercasename" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:m.asenov5752@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
 ## GitHub Stats
 
