@@ -4,7 +4,16 @@
 
 ## About Me
 
-I'm a **web developer** with a passion for building immersive online experiences. I currently build **custom events for Talisman Online**, so if you are interested, you can contact me.
+I'm a **web developer** with a passion for building immersive online experiences.  
+I also work on **Talisman Online** development, where I provide:
+
+- 🧩 **Custom Events** – bringing unique gameplay experiences to players.
+- 💎 **Inlay System** – implemented exactly like the **official Talisman Online server**, a feature that is very rare to find on private servers.  
+- 🔒 **Encryption & Security** – improving stability and protection.
+- 🪙 **Bug Fixes** – including the **TPoints bug** and **teleportation issues**.
+- ⚡ **And much more** – custom features and fixes to enhance servers.
+
+If you're interested in upgrading your Talisman Online experience, feel free to contact me.  
 
 <br/>
 
@@ -13,20 +22,26 @@ I'm a **web developer** with a passion for building immersive online experiences
 <div align="center">
   <!-- .NET CORE -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="40" height="40" />&nbsp;
-  <!-- EF CORE -->
-  <img src="https://static-00.iconduck.com/assets.00/csharp-plain-icon-1787x2048-y9q3a2mj.png" alt="EF Core" width="40" height="40" />&nbsp;
+  <!-- C# (used for EF Core) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />&nbsp;
   <!-- MSSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" width="40" height="40" />&nbsp;
   <!-- POSTGRES -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="40" height="40" />&nbsp;
+  <!-- REDIS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />&nbsp;
   <!-- LUA -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" />&nbsp;
   <!-- DOCKER -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />&nbsp;
+  <!-- NGINX -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" />&nbsp;
+  <!-- GRAFANA -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="40" height="40" />&nbsp;
   <!-- GIT -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />&nbsp;
   <!-- BLAZOR -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" alt="Blazor" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40" />&nbsp;
   <!-- RADZEN -->
   <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bunmop16i7jodw52jdbm" alt="Radzen" width="40" height="40" />
 </div>
@@ -52,6 +67,9 @@ Feel free to reach out via any of the platforms below:
   </a>
   <a href="mailto:m.asenov5752@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://signal.me/#eu/c9xieczkCH_XfAhEa1sw0Z4oZn_k7V1ZRk5aLtS8y5pFbsQ6TBJD47iRHUUKfv6r" target="_blank">
+    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal Badge"/>
   </a>
 </div>
 
