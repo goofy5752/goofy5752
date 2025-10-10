@@ -4,16 +4,20 @@
 
 ## About Me
 
-I'm a **web developer** with a passion for building immersive online experiences.  
-I also work on **Talisman Online** development, where I provide:
+I'm a **web developer** and **Talisman Online private server developer** with a passion for building immersive online experiences.  
+I specialize in **custom Talisman Online server development**, including both **client** and **server-side enhancements**, ensuring optimized gameplay and innovative features.
 
+- 🧼 **Clean Client & Server Files** – fully optimized and bug-free, ensuring stable and smooth gameplay.
 - 🧩 **Custom Events** – bringing unique gameplay experiences to players.
 - 💎 **Inlay System** – implemented exactly like the **official Talisman Online server**, a feature that is very rare to find on private servers.  
+- 🦄 **Unique Mounts & Pets** – introducing exclusive creatures, visual effects, and collectible companions.
+- 🎨 **Cosmetic Pills & Custom NPC UIs** – visually enhancing the player experience with original designs and functional interfaces.
+- 🧙‍♂️ **Event & Quest Integration** – assisting with the creation, implementation, and balancing of new events, quests, and gameplay features.
 - 🔒 **Encryption & Security** – improving stability and protection.
 - 🪙 **Bug Fixes** – including the **TPoints bug** and **teleportation issues**.
 - ⚡ **And much more** – custom features and fixes to enhance servers.
 
-If you're interested in upgrading your Talisman Online experience, please don't hesitate to contact me.  
+If you're interested in upgrading your **Talisman Online private server**, please don't hesitate to contact me.
 
 <br/>
 
@@ -111,3 +115,7 @@ Feel free to reach out via any of the platforms below:
 </table>
 
 <br/>
+
+<!--
+SEO Keywords: Talisman Online private server, Talisman Online developer, Talisman Online custom events, Talisman Online inlay system, Talisman Online quest creation, Talisman Online server files, custom Talisman online developer, game modding
+-->
