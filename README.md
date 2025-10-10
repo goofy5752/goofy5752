@@ -54,8 +54,6 @@ If you're interested in upgrading your Talisman Online experience, feel free to 
   <img src="https://raw.githubusercontent.com/App-vNext/Polly/main/Polly-Logo.png" alt="Polly" title="Polly — Resilience and transient-fault handling for .NET" width="40" height="40" />&nbsp;
   <!-- Jira -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" title="Jira — Issue and project tracking tool" width="40" height="40" />&nbsp;
-  <!-- Ubuntu -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" title="Ubuntu — Linux OS for development and hosting" width="40" height="40" />&nbsp;
 </div>
 
 </br>
