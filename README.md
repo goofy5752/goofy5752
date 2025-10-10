@@ -12,7 +12,7 @@ I specialize in **custom Talisman Online server development**, including both **
 - 💎 **Inlay System** – implemented exactly like the **official Talisman Online server**, a feature that is very rare to find on private servers.  
 - 🦄 **Unique Mounts & Pets** – introducing exclusive creatures, visual effects, and collectible companions.
 - 🎨 **Cosmetic Pills & Custom NPC UIs** – visually enhancing the player experience with original designs and functional interfaces.
-- 🧙‍♂️ **Event & Quest Integration** – assisting with the creation, implementation, and balancing of new events, quests, and gameplay features.
+- 🧙‍♂️ **Event & Quest Integration** – assisting with the creation, implementation, and balancing of new events, quests, etc.
 - 🔒 **Encryption & Security** – improving stability and protection.
 - 🪙 **Bug Fixes** – including the **TPoints bug** and **teleportation issues**.
 - ⚡ **And much more** – custom features and fixes to enhance servers.
