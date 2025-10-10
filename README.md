@@ -20,30 +20,42 @@ If you're interested in upgrading your Talisman Online experience, feel free to 
 ## Tech Stack
 
 <div align="center">
-  <!-- .NET CORE -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="40" height="40" />&nbsp;
-  <!-- C# (used for EF Core) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />&nbsp;
-  <!-- MSSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" width="40" height="40" />&nbsp;
-  <!-- POSTGRES -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="40" height="40" />&nbsp;
-  <!-- REDIS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />&nbsp;
-  <!-- LUA -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" />&nbsp;
-  <!-- DOCKER -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />&nbsp;
-  <!-- NGINX -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" />&nbsp;
-  <!-- GRAFANA -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="40" height="40" />&nbsp;
-  <!-- GIT -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />&nbsp;
-  <!-- BLAZOR -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40" />&nbsp;
-  <!-- RADZEN -->
-  <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bunmop16i7jodw52jdbm" alt="Radzen" width="40" height="40" />
+  <!-- .NET Core -->
+  <img src="https://softellar.com/tech-logos/dotnetcore.svg" alt=".NET Core" title=".NET Core — Cross-platform framework for backend and web apps" width="40" height="40" />&nbsp;
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C# — Main programming language used in .NET" width="40" height="40" />&nbsp;
+  <!-- Microsoft SQL Server -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" title="Microsoft SQL Server — Relational database system" width="40" height="40" />&nbsp;
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL — Advanced open-source relational database" width="40" height="40" />&nbsp;
+  <!-- MySQL -->
+  <img src="https://softellar.com/tech-logos/mysql.svg" alt="MySQL" title="MySQL — Open-source relational database" width="40" height="40" />&nbsp;
+  <!-- Redis -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis — In-memory cache and pub/sub message broker" width="40" height="40" />&nbsp;
+  <!-- Lua -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" title="Lua — Lightweight scripting language for Talisman Online" width="40" height="40" />&nbsp;
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker — Containerization for consistent deployments" width="40" height="40" />&nbsp;
+  <!-- Nginx -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx — High-performance web server and reverse proxy" width="40" height="40" />&nbsp;
+  <!-- Azure -->
+  <img src="https://softellar.com/tech-logos/azure.svg" alt="Azure" title="Azure — Cloud platform and DevOps pipelines" width="40" height="40" />&nbsp;
+  <!-- Grafana -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" title="Grafana — Monitoring and visualization dashboards" width="40" height="40" />&nbsp;
+  <!-- SignalR -->
+  <img src="https://softellar.com/tech-logos/signalr.png" alt="SignalR" title="SignalR — Real-time communication framework for .NET" width="40" height="40" />&nbsp;
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git — Version control system for source code" width="40" height="40" />&nbsp;
+  <!-- Blazor -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" title="Blazor — Framework for building C#-based web UIs" width="40" height="40" />&nbsp;
+  <!-- Radzen -->
+  <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bunmop16i7jodw52jdbm" alt="Radzen" title="Radzen — Low-code Blazor UI components" width="40" height="40" />&nbsp;
+  <!-- Polly -->
+  <img src="https://raw.githubusercontent.com/App-vNext/Polly/main/Polly-Logo.png" alt="Polly" title="Polly — Resilience and transient-fault handling for .NET" width="40" height="40" />&nbsp;
+  <!-- Jira -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" title="Jira — Issue and project tracking tool" width="40" height="40" />&nbsp;
+  <!-- Ubuntu -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" title="Ubuntu — Linux OS for development and hosting" width="40" height="40" />&nbsp;
 </div>
 
 </br>
