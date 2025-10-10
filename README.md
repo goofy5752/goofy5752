@@ -13,7 +13,7 @@ I also work on **Talisman Online** development, where I provide:
 - 🪙 **Bug Fixes** – including the **TPoints bug** and **teleportation issues**.
 - ⚡ **And much more** – custom features and fixes to enhance servers.
 
-If you're interested in upgrading your Talisman Online experience, feel free to contact me.  
+If you're interested in upgrading your Talisman Online experience, please don't hesitate to contact me.  
 
 <br/>
 
@@ -51,7 +51,7 @@ If you're interested in upgrading your Talisman Online experience, feel free to 
   <!-- Radzen -->
   <a href="https://www.radzen.com/" target="_blank"><img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bunmop16i7jodw52jdbm" alt="Radzen" title="Radzen" width="40" height="40" style="border: 0;" /></a>&nbsp;
   <!-- Polly -->
-  <a href="https://www.pollytalk.org/" target="_blank"><img src="https://raw.githubusercontent.com/App-vNext/Polly/main/Polly-Logo.png" alt="Polly" title="Polly" width="40" height="40" style="border: 0;" /></a>&nbsp;
+  <a href="https://www.pollydocs.org/" target="_blank"><img src="https://raw.githubusercontent.com/App-vNext/Polly/main/Polly-Logo.png" alt="Polly" title="Polly" width="40" height="40" style="border: 0;" /></a>&nbsp;
   <!-- Jira -->
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" title="Jira" width="40" height="40" style="border: 0;" /></a>
 </div>
@@ -64,22 +64,22 @@ Feel free to reach out via any of the platforms below:
 
 <div align="center">
   <a href="https://github.com/goofy5752" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge" style="border: 0;" />
   </a>
   <a href="https://www.linkedin.com/in/goofy5752" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="border: 0;" />
   </a>
   <a href="https://wa.me/+359897056039" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" style="border: 0;" />
   </a>
   <a href="https://t.me/lowercasename" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="border: 0;" />
   </a>
   <a href="mailto:m.asenov5752@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" style="border: 0;" />
   </a>
   <a href="https://signal.me/#eu/c9xieczkCH_XfAhEa1sw0Z4oZn_k7V1ZRk5aLtS8y5pFbsQ6TBJD47iRHUUKfv6r" target="_blank">
-    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal Badge"/>
+    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal Badge" style="border: 0;" />
   </a>
 </div>
 
