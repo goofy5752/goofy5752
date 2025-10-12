@@ -57,7 +57,9 @@ If you're interested in upgrading your **Talisman Online private server**, pleas
   <!-- Polly -->
   <a href="https://www.pollydocs.org/" target="_blank"><img src="https://raw.githubusercontent.com/App-vNext/Polly/main/Polly-Logo.png" alt="Polly" title="Polly" width="40" height="40" style="border: 0;" /></a>&nbsp;
   <!-- Jira -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" title="Jira" width="40" height="40" style="border: 0;" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" title="Jira" width="40" height="40" style="border: 0;" /></a>&nbsp;
+  <!-- RABBITMQ -->
+  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40" style="border: 0;" /></a>
 </div>
 
 </br>
