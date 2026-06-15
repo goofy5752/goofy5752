@@ -129,16 +129,9 @@ Everything you need to launch, customize, and maintain a **Talisman Online priva
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-pi-rust-32.vercel.app/api?username=goofy5752&show_icons=true&hide_border=true&theme=radical" alt="Martin (goofy5752) GitHub stats" />
-<img height="165" src="https://github-readme-stats-pi-rust-32.vercel.app/api/top-langs/?username=goofy5752&layout=compact&hide_border=true&theme=radical" alt="Most used languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats-eight-blue-32.vercel.app/?user=goofy5752&hide_border=true&theme=radical" alt="GitHub streak stats" />
 
 </div>
-
-<br/>
 
 <!-- ============================================================= -->
 <!--                     CONTRIBUTION SNAKE                        -->
